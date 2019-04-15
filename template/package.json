@@ -1,0 +1,10 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "{{description}}",
+  "license": "MIT",
+  "dependencies": {
+    "vue-gitpage": "^0.0.4"
+  }
+}
